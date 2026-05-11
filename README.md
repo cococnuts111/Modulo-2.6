@@ -1,7 +1,7 @@
-<h1 align="center">👋 Hola, soy Joey</h1>
+<h1 align="center" class="rainbow-text">👋 Hola, soy Josué Enrique</h1>
 
 <p align="center">
-  💻 Estudiante de Desarrollo de Software <br>
+  💻 Estudiante Técnico en Desarrollo de Software <br>
   🚀 Aprendiendo programación, bases de datos y desarrollo web
 </p>
 
@@ -10,7 +10,8 @@
 ## 🧠 Sobre mí
 
 - 🎓 Estudio Bachillerato Técnico Vocacional en Desarrollo de Software
-- 🌱 Actualmente aprendiendo HTML, CSS, JavaScript y SQL
+- 📚 Actualmente estoy cursando mi 2° año
+- 🌱 Aprendiendo HTML, CSS, JavaScript y SQL
 - 🎮 Me gusta la tecnología y crear proyectos
 - 📍 El Salvador
 
@@ -46,6 +47,37 @@
 
 ---
 
-<p align="center">
+<p align="center" class="rainbow-text">
   ⭐ Gracias por visitar mi perfil ⭐
 </p>
+
+<style>
+.rainbow-text {
+  font-size: 40px;
+  font-weight: bold;
+  background: linear-gradient(
+    90deg,
+    red,
+    orange,
+    yellow,
+    green,
+    cyan,
+    blue,
+    violet,
+    red
+  );
+  background-size: 400%;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  animation: rainbow 8s linear infinite;
+}
+
+@keyframes rainbow {
+  0% {
+    background-position: 0%;
+  }
+  100% {
+    background-position: 400%;
+  }
+}
+</style>
