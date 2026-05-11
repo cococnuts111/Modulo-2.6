@@ -8,44 +8,45 @@
     <style>
         body{
             font-family: Arial, sans-serif;
-            background-color: #f0f2f5;
+            background: #1e1e2f;
             display: flex;
             justify-content: center;
             align-items: center;
             height: 100vh;
+            margin: 0;
         }
 
         .perfil{
             background: white;
             width: 320px;
-            padding: 20px;
+            padding: 25px;
             border-radius: 15px;
             text-align: center;
-            box-shadow: 0px 4px 10px rgba(0,0,0,0.2);
+            box-shadow: 0 5px 15px rgba(0,0,0,0.3);
         }
 
         .perfil img{
             width: 120px;
             height: 120px;
             border-radius: 50%;
-            border: 4px solid #3498db;
+            border: 4px solid #4a90e2;
         }
 
-        .perfil h1{
+        h1{
             margin: 15px 0 5px;
             color: #333;
         }
 
-        .perfil p{
+        p{
             color: #666;
-            font-size: 14px;
+            font-size: 15px;
         }
 
         .boton{
             display: inline-block;
             margin-top: 15px;
             padding: 10px 20px;
-            background: #3498db;
+            background: #4a90e2;
             color: white;
             text-decoration: none;
             border-radius: 8px;
@@ -53,20 +54,20 @@
         }
 
         .boton:hover{
-            background: #2980b9;
+            background: #357abd;
         }
     </style>
 </head>
 <body>
 
     <div class="perfil">
-        <img src="https://via.placeholder.com/120" alt="Foto de perfil">
+        <img src="https://i.imgur.com/2DhmtJ4.jpg" alt="Foto de perfil">
 
-        <h1>Carlos Borja</h1>
+        <h1>Tu Nombre</h1>
 
-        <p>Estudiante de Desarrollo de Software</p>
+        <p>Estudiante de Desarrollo de Software 💻</p>
 
-        <p>Me gusta la programación, las bases de datos y crear aplicaciones.</p>
+        <p>Me gusta la programación, las apps y las bases de datos.</p>
 
         <a href="#" class="boton">Seguir</a>
     </div>
