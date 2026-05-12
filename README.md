@@ -1,4 +1,4 @@
-<h1 align="center" class="rainbow-text">👋 Hola, soy Josué Enrique</h1>
+w<h1 align="center" class="rainbow-text">👋 Hola, soy Josué Enrique</h1>
 
 <p align="center">
   💻 Estudiante Técnico en Desarrollo de Software <br>
@@ -42,7 +42,7 @@
 
 ## 📫 Contacto
 
-- 📧 Email: tucorreo@gmail.com
+- 📧 Email: JosueEnrique@gmail.com
 - 🌐 GitHub: https://github.com/TUUSUARIO
 
 ---
