@@ -20,7 +20,9 @@ w<h1 align="center" class="rainbow-text">👋 Hola, soy Josué Enrique</h1>
 ## ⚡ Tecnologías
 
 <p>
+  <a href="file:///C:/Users/MINEDUCYT/Documents/Modulo%202.1/tarea%20de%20mod%201.html" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5&logoColor=white">
+</a>
   <img src="https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3&logoColor=white">
   <img src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=black">
   <img src="https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql&logoColor=white">
